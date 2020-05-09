@@ -1,2 +1,2 @@
 # 2D-HACP
-Supplementary source codes for computing absorption spectrum and field distribution of 2-dimensional metallic hole-array coated by polymer
+Supplementary source codes for computing absorption spectrum and field distribution of 2-dimensional metallic hole-array coated by polymer. The codes were written by Fortran 90/95 which were complied by G95 compiler on Windows-dos. The file named sqhole_spectrum.f90 was used to compute the absorption spectrum, and the file named sqhole_field.f90 was used to compute the magnetic and electric field distributions at particular frequency over y=0 plane. The codes could be easily editted in Notepad++.   
